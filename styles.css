@@ -50,13 +50,22 @@ body {
     margin-top: 400%;
 }
 
+
 #get-content {
     font-weight: 400;
     text-align: center;
-    position: relative;
+
 }
 
 #count-content {
     font-weight: 400;
     text-align: center;
+}
+
+.media-content {
+    display: none;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
 }
